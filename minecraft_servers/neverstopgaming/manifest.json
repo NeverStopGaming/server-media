@@ -1,0 +1,39 @@
+{
+  "server_name": "NeverStopGaming.net",
+  "nice_name": "NeverStopGaming",
+  "direct_ip": "NeverStopGaming.net",
+  "server_wildcards": [
+    "%.NeverStopGaming.net"
+  ],
+  "social": {
+    "web": "https://NeverStopGaming.net/",
+    "web_support": "ts3server://NeverStopGaming.net",
+    "twitter": "NSG_Net",
+    "discord": "https://NeverStopGaming.net/discord",
+    "teamspeak": "ts.NeverStopGaming.net",
+    "youtube": "https://www.youtube.com/Timolia"
+  },
+  "gamemodes": {
+    "1vs1": {
+      "name": "1vs1",
+      "command": "/quickjoin 1vs1",
+      "url": "https://www.NeverStopGaming.net/games#pvp",
+      "color": "#0095B0"
+    }
+  },
+  "discord": {
+    "server_id": 599257590735700027,
+    "rename_to_minecraft_name": true
+  },
+  "brand": {
+    "primary": "#497cb1",
+    "background": "#497cb1",
+    "text": "#ffffff"
+  },
+  "location": {
+     "city": "Frankfurt am Main",
+     "country": "Germany",
+     "country_code": "DE"
+   },
+  "user_stats": "https://www.NeverStopGaming.net/stats/{userName}"
+}
